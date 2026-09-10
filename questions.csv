@@ -1,0 +1,77 @@
+Topic,Question
+Project,"What exactly is Simple Mining proposing to build and operate at the Cascade site, and what services or computing workloads do you currently expect the facility to support?"
+Project,"Is this facility being designed specifically for Bitcoin or cryptocurrency mining, or could it also host AI, high-performance computing, cloud computing, colocation, or other data-center customers?"
+Project,"Who will own the Cascade facility, who will operate it, and which legal entity will ultimately be responsible for complying with agreements made with the City of Cascade?"
+Project,"What is the proposed size of the initial facility in square feet, and what is the maximum size the site could reach if fully developed?"
+Project,"Is the project expected to be constructed in phases? If so, what are the anticipated phases, sizes, and approximate timelines?"
+Electricity,"What is the expected average electrical demand of the initial Cascade facility in megawatts, and what is the expected maximum or peak demand?"
+Electricity,What would the electrical demand be if the Cascade site were fully built out to its maximum planned capacity?
+Electricity,"What utility, substation, transmission, generation, or distribution upgrades will be required to serve the facility?"
+Electricity,Who will pay for electrical infrastructure upgrades required specifically because of this project?
+Electricity,Can Simple Mining commit that Cascade residents and other existing utility customers will not be required to subsidize infrastructure constructed primarily to serve this facility?
+Electricity,"Will the facility participate in utility demand-response or curtailment programs during periods of unusually high electrical demand, and if so, how would those programs work?"
+Cooling,What specific cooling technology is proposed for the Cascade facility?
+Cooling,"Will the computing equipment use closed-loop liquid cooling, air cooling, evaporative cooling, immersion cooling, or some combination of these systems?"
+Water,What is the estimated average daily water consumption for the initial Cascade facility?
+Water,What is the estimated maximum daily water consumption during the hottest operating conditions?
+Water,What is the estimated annual water consumption at initial operation and at maximum buildout?
+Water,"What source will supply water to the facility, and would any water be obtained from Cascade's municipal water system or local groundwater?"
+Water,Will the facility use potable municipal water for cooling or other industrial purposes?
+Water,"What happens to water after it is used by the facility, including any wastewater, blowdown, discharge, or treatment?"
+Water,"What chemicals, if any, will be added to cooling or water-treatment systems, and how will those chemicals be stored and disposed of?"
+Water,"What measures would Simple Mining take to reduce water consumption during drought, water shortages, or unusually hot conditions?"
+Noise,What is the predicted continuous noise level in dBA at the property line during normal operation?
+Noise,What is the predicted noise level at the nearest existing residence during normal daytime and nighttime operation?
+Noise,"Has Simple Mining performed or commissioned an acoustical model for the Cascade site? If so, will the complete report be made available to the public?"
+Noise,Will the noise study evaluate tonal noise and low-frequency noise in addition to the overall A-weighted dBA level?
+Noise,"What cooling fans, transformers, generators, pumps, or other equipment are expected to be the major sources of continuous noise?"
+Noise,"Is Simple Mining willing to accept an enforceable property-line noise limit, including separate nighttime requirements?"
+Noise,Is Simple Mining willing to fund independent post-construction noise measurements performed by a qualified third party selected or approved by the City?
+Noise,"If post-construction testing shows that the facility exceeds an agreed noise limit, what specific corrective actions would Simple Mining be willing to take?"
+Generators,"How many backup generators are currently anticipated for the Cascade facility, what type and size would they be, and what fuel would they use?"
+Generators,"How often would backup generators normally be tested, during what hours, and approximately how long would each test last?"
+Generators,What noise levels and air emissions are expected from backup generator operation?
+Environment,Is Simple Mining willing to pay for an independent environmental impact assessment of the Cascade project performed by a qualified third party acceptable to the City?
+Environment,"What effects could the proposed facility have on stormwater runoff, drainage, erosion, groundwater, or nearby surface water?"
+Environment,"What waste streams will the facility generate, including electronic waste, batteries, oils, coolants, chemicals, filters, or other industrial materials?"
+Environment,How will waste electronics and failed computing equipment be recycled or disposed of?
+Environment,"What heat will be rejected into the surrounding environment, and has Simple Mining evaluated whether the facility could create measurable localized heat impacts?"
+Jobs,How many temporary construction jobs are expected to be created by the Cascade project?
+Jobs,How many permanent full-time equivalent employees are expected to work at the Cascade facility after normal operations begin?
+Jobs,"What types of permanent positions will be located in Cascade, and what salary or wage ranges are expected for those positions?"
+Jobs,Will Simple Mining commit to recruiting locally for permanent jobs when qualified candidates are available?
+Jobs,"Would Simple Mining participate in workforce-development or technical-training partnerships with local schools, community colleges, or other Iowa educational institutions?"
+Taxes,What is the estimated taxable value of the completed Cascade facility at initial operation?
+Taxes,What is the estimated annual property-tax contribution to local taxing authorities at initial operation and at full buildout?
+Taxes,"What tax abatements, tax increment financing, rebates, grants, infrastructure assistance, or other public incentives has Simple Mining requested or expects to request?"
+Taxes,"If public incentives are requested, would Simple Mining accept clawback provisions if promised investment, employment, or operational commitments are not met?"
+Infrastructure,What road construction or improvements will be necessary for construction and long-term operation of the facility?
+Infrastructure,"Who would pay for any road, sewer, water, electrical, communications, drainage, or other public infrastructure improvements required primarily by the project?"
+Infrastructure,How much additional truck traffic is expected during construction and during normal operation?
+Emergency,What fire suppression system is proposed for the data center?
+Emergency,"Will the facility contain lithium-ion battery energy-storage or UPS systems, and if so, what type and approximate capacity?"
+Emergency,What hazardous materials or fuels will normally be stored on site?
+Emergency,"What specialized training, equipment, or staffing would Cascade-area fire, EMS, or law-enforcement agencies need in order to respond safely to an emergency at the facility?"
+Emergency,Will Simple Mining pay for specialized emergency-response training or equipment required specifically because of the facility?
+Security,"What physical security measures are proposed for the site, including fencing, cameras, access controls, and security personnel?"
+Lighting,"What exterior lighting is proposed, and will lighting be shielded or directed to prevent unnecessary light trespass onto neighboring properties?"
+Zoning,What project commitments is Simple Mining willing to have incorporated into legally enforceable zoning conditions or a development agreement rather than leaving them as voluntary promises?
+Expansion,"If the facility later changes from cryptocurrency mining to AI, high-performance computing, cloud computing, or another workload, could that materially change its electricity, water, cooling, noise, generator, or staffing requirements?"
+Expansion,Is Simple Mining willing to notify the City before making a major change in computing workload or equipment that materially changes the facility's physical impacts?
+Transparency,"What agreements or negotiations currently exist between Simple Mining and electric utilities, property owners, economic-development organizations, government agencies, or other parties concerning the Cascade project?"
+Transparency,"Will Simple Mining make non-confidential engineering studies concerning noise, water, electricity, traffic, environmental impact, and emergency response available to the public?"
+Transparency,"Are there any nondisclosure agreements affecting what Cascade officials, utilities, economic-development organizations, or other parties may publicly disclose about this project?"
+Comparable Sites,"What existing Simple Mining facility is most comparable in size, technology, electrical demand, cooling system, and surrounding land use to the proposed Cascade facility?"
+Comparable Sites,"Can Simple Mining provide addresses of comparable operating facilities so Cascade residents and officials can independently evaluate their actual noise, water use, employment, and community impacts?"
+Comparable Sites,"Have any Simple Mining-operated facilities received documented complaints or regulatory violations involving noise, water, environmental impacts, electrical service, fire safety, or neighboring property impacts?"
+Community,Who will be the community contact for complaints or concerns once the Cascade facility is operating?
+Community,Will Simple Mining establish a documented complaint process with response deadlines and records that can be reviewed by the City?
+Monitoring,"Will Simple Mining support ongoing public reporting of actual electricity consumption, water consumption, noise compliance, and other agreed environmental or operational metrics?"
+Monitoring,Would Simple Mining permit independent inspections or compliance testing when the City has a reasonable basis to investigate a possible violation?
+Decommissioning,What is the expected useful life of the Cascade facility?
+Decommissioning,"What is Simple Mining's plan for removing computing equipment, electrical infrastructure, cooling equipment, generators, fuel systems, and other improvements if the facility permanently closes?"
+Decommissioning,"Is Simple Mining willing to provide a decommissioning bond, letter of credit, escrow account, or other financial assurance so taxpayers are not responsible for cleanup if the facility is abandoned?"
+Property,"How would Simple Mining address documented impacts to neighboring properties if operation of the facility causes noise, drainage, lighting, traffic, or other effects beyond agreed limits?"
+Community,"What do you believe are the three most important benefits this specific project will provide to Cascade residents, excluding benefits that would occur only during temporary construction?"
+Community,"What do you believe are the three most significant potential negative impacts of this specific project, and what concrete measures will Simple Mining take to mitigate each one?"
+Commitments,"Of the commitments Simple Mining makes at this community forum, which ones is the company willing to put into a written development agreement enforceable by the City of Cascade?"
