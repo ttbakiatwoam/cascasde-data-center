@@ -121,6 +121,9 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 22. [`22_SOURCE_INDEX.md`](22_SOURCE_INDEX.md)  
     Consolidated public URL index for the statutes, ordinances, government records, research, company materials, journalism, and comparator documents used throughout the project.
 
+23. [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md)  
+    City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and limits on interpreting unused nameplate capacity.
+
 ## Root data files
 
 - [`../questions.csv`](../questions.csv) — machine-readable 76-question community-forum question bank.
