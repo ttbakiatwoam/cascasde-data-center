@@ -8,6 +8,18 @@ This repository supports an evidence-based review of the proposed Cascade data-c
 
 The working position of this project is **pro-data-center development with appropriate community protections, transparency, and accountability**.
 
+## Dataset
+
+The [`dataset/`](dataset/) directory converts the major research threads developed in this project into reusable Markdown notes with public source links.
+
+Start here:
+
+- [`dataset/00_INDEX.md`](dataset/00_INDEX.md) — dataset contents, methodology, privacy rules, and evidence labels
+- [`dataset/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](dataset/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — living tracker of what is documented, represented, preliminary, unknown, or awaiting legal review
+- [`dataset/22_SOURCE_INDEX.md`](dataset/22_SOURCE_INDEX.md) — consolidated public source and document index
+
+The public dataset intentionally excludes Facebook comments/reply drafting, screenshots of private/local discussions, private correspondence, personal disputes, law-enforcement correspondence, addresses/contact information, and other personally identifying information.
+
 ## Areas of focus
 
 This project tracks questions and research involving:
@@ -28,18 +40,18 @@ This project tracks questions and research involving:
 - Public reporting, inspections, complaint procedures, and ongoing compliance
 - Decommissioning requirements and financial assurance
 - Comparable operating facilities and documented real-world impacts
-- Claims circulating through local social media and their underlying sources
+- Public claims and their underlying source evidence
 
 ## Community forum questions
 
-A structured set of questions is being developed for Simple Mining and other project stakeholders. The questions are intended to obtain specific answers about the **Cascade project itself**, rather than relying on assumptions drawn from unrelated data centers, cryptocurrency facilities, AI facilities, or projects in other communities.
+A structured set of questions has been developed for Simple Mining and other project stakeholders. The questions are intended to obtain specific answers about the **Cascade project itself**, rather than relying on assumptions drawn from unrelated data centers, cryptocurrency facilities, AI facilities, or projects in other communities.
 
-Current repository files include:
+Current root data/tool files include:
 
-- `questions.csv` — community-forum questions organized by topic
-- `submit-questions.sh` — a local helper script for submitting the author's questions to the community-forum form
+- `questions.csv` — 76 community-forum questions organized by topic
+- `submit-questions.sh` — optional local helper script for submitting the questions in `questions.csv`
 
-Any submission tooling in this repository is intended for legitimate questions submitted by the named participant. It should respect site restrictions, stop on rate limits or anti-abuse challenges, and should not be used to bypass CAPTCHA or other access controls.
+The public copy of the submission helper contains no participant name or address. It prompts the operator to provide their own required identifying information at run time. The helper is designed to stop on rate limits, anti-abuse challenges, failed requests, or unexpected responses and is not intended to bypass CAPTCHA or other access controls.
 
 ## Policy principles under consideration
 
@@ -71,7 +83,9 @@ Where possible, claims should be traced back to primary or high-quality sources 
 - Government agencies
 - Original local reporting
 
-Opinion pieces, social-media posts, advocacy material, podcasts, and national reporting may be useful for identifying claims, but they should not be treated as substitutes for the underlying evidence.
+Opinion pieces, advocacy material, podcasts, and national reporting may be useful for identifying claims, but they should not be treated as substitutes for the underlying evidence.
+
+The dataset distinguishes public records, company representations, secondary reporting, and project-generated analysis rather than presenting them as equally authoritative.
 
 ## Project stance
 
