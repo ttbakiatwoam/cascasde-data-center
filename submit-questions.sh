@@ -2,9 +2,8 @@
 set -u
 
 FORM='https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/formResponse'
-CSV="$HOME/simple-mining-forum/questions.csv"
-PROGRESS="$HOME/simple-mining-forum/.submission-progress"
-NAME='Andrew Saunders'
+CSV="${CSV:-$HOME/simple-mining-forum/questions.csv}"
+PROGRESS="${PROGRESS:-$HOME/simple-mining-forum/.submission-progress}"
 
 [[ -f "$CSV" ]] || { echo "ERROR: Missing $CSV"; exit 1; }
 
@@ -18,6 +17,9 @@ fi
 [[ "$start" =~ ^[0-9]+$ ]] || { echo 'ERROR: Invalid progress file'; exit 1; }
 (( start <= total )) || { echo 'ERROR: Progress exceeds CSV row count'; exit 1; }
 (( start < total )) || { echo "All $total questions are already marked submitted."; exit 0; }
+
+read -r -p 'First and Last Name: ' NAME
+[[ -n "$NAME" ]] || { echo 'ERROR: Name cannot be blank'; exit 1; }
 
 read -r -p 'Street Address (City, State, Zip): ' ADDRESS
 [[ -n "$ADDRESS" ]] || { echo 'ERROR: Address cannot be blank'; exit 1; }
