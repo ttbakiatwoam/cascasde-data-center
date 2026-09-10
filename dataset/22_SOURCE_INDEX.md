@@ -41,7 +41,7 @@
 - **August 24, 2026 City Council Minutes** — Primary / official  
   https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/August%2024th%20Minutes.pdf
 
-## Cascade code, zoning, permits, and development
+## Cascade code, zoning, permits, utilities, and development
 
 - **Cascade Code — Chapter 11, Zoning Regulations** — Primary / official code host  
   https://codelibrary.amlegal.com/codes/cascadeia/latest/cascade_ia/0-0-0-4120
@@ -82,6 +82,15 @@
 - **Economic Development — Work Here / incentives context** — Primary / official  
   https://www.cityofcascade.org/vnews/display.v/SEC/Economic%20Development%20Corporation%7CWork%20Here
 
+- **City of Cascade — Public Works Water Department** — Primary / official  
+  https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CWater
+
+- **City of Cascade — Water Quality Reports** — Primary / official  
+  https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CWater%3E%3EWater%20Quality%20Report
+
+- **City of Cascade — 2025 Water Quality Report** — Primary / official  
+  https://www.cityofcascade.org/vimages/shared/vnews/stories/5eeb92cca75d4/20260504150429.pdf
+
 ---
 
 # 2. Simple Mining and the Cascade proposal
@@ -113,9 +122,12 @@
 - **Simple Mining community-forum question form** — Primary / public project form  
   https://docs.google.com/forms/d/e/1FAIpQLSez9hfMvtFT9ME96bN0J2wK14d57DDhZLc4ksjsuHIOtmiI4A/viewform?pli=1
 
+- **Public forum short link printed on the forum invitation** — Public project link  
+  https://tinyurl.com/simple-mining
+
 ---
 
-# 3. Iowa law and open government
+# 3. Iowa law, water records, and open government
 
 ## Municipal and zoning authority
 
@@ -130,6 +142,14 @@
 
 - **Iowa Constitution, Article III, §38A — municipal home rule reference copy** — Primary-law text / third-party host  
   https://law.justia.com/constitution/iowa/article-iii/section-38a/
+
+## State water-system records
+
+- **Iowa DNR — Cascade Municipal Water Supply Source Water Protection Tracker** — Primary / official  
+  https://programs.iowadnr.gov/sourcewater/SystemDetail?pwsid=3118080
+
+- **Iowa DNR — Drinking Water Data Portal** — Primary / official  
+  https://programs.iowadnr.gov/iowadrinkingwater
 
 ## Open meetings / boards
 
@@ -179,7 +199,10 @@
 - **Data Centers in Unincorporated Linn County** — Primary / official comparator  
   https://www.linncountyiowa.gov/1862/Data-Centers-in-Unincorporated-Linn-Coun
 
-- **Board of Supervisors data-center ordinance approval release** — Primary / official comparator  
+- **Board of Supervisors data-center ordinance approval release — source URL used in the June model-ordinance appendix** — Primary / official comparator  
+  https://www.linncountyiowa.gov/m/newsflash/Home/Detail/4324
+
+- **Alternate/current Linn County endpoint for the same February 18, 2026 release** — Primary / official comparator  
   https://www.linncountyiowa.gov/m/newsflash/Home/Detail/4326
 
 - **Approved Linn County Data Center Ordinance** — Primary / official comparator  
@@ -545,6 +568,20 @@ These are part of the research dataset but are **not independent sources or adop
 - [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — summary of the June 21, 2026 project-generated model ordinance.
 - [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md) — explicitly labeled illustrative/hypothetical analysis.
 - [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — living evidence-gap tracker.
+- [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — public municipal-water baseline and capacity-comparison cautions.
+
+---
+
+# 16. Source-recovery notes
+
+This index is intentionally conservative about older research references whose exact source URL cannot be reconstructed confidently.
+
+An early project comparison referenced an Iowa DNR/Cedar Rapids pretreatment record concerning a yeast-manufacturing facility and a reported wastewater-flow figure. The exact audit URL used in that early analysis was not preserved cleanly enough to re-establish the quoted flow value from the original document during this dataset pass. Because the facility is not in Cascade and the original audit link/value pairing could not be reproduced confidently, the numerical claim has **not** been carried into the dataset as an authoritative comparison.
+
+The DNR's current facility databases can be used for future source recovery, but a different permit or facility page should not be substituted silently for the missing original record.
+
+- **Iowa DNR Facility Explorer** — Primary / official source-recovery tool  
+  https://facilityexplorer.iowadnr.gov/
 
 ## Source-index maintenance rule
 
