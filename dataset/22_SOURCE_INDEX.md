@@ -6,7 +6,7 @@
 
 ## Source classification
 
-- **Primary / official** — statute, ordinance, government record, government technical publication, company document, manufacturer technical material, or original institutional publication.
+- **Primary / official** — statute, ordinance, government record, government technical publication, peer-reviewed research, company document, manufacturer technical material, or original institutional publication.
 - **Secondary** — journalism, trade reporting, or third-party analysis.
 - **Comparator** — valid source, but the underlying facility/jurisdiction is not the Cascade project.
 - **Project-generated** — analysis or model language created within this research project; not external authority.
@@ -568,13 +568,16 @@ These are part of the research dataset but are **not independent sources or adop
 - [`05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md`](05_PROJECT_MODEL_ACCOUNTABILITY_ORDINANCE.md) — summary of the June 21, 2026 project-generated model ordinance.
 - [`11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md`](11_ENVIRONMENTAL_AND_CARBON_SCENARIOS.md) — explicitly labeled illustrative/hypothetical analysis.
 - [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — living evidence-gap tracker.
-- [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — public municipal-water baseline and capacity-comparison cautions.
+- [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — public municipal-water baseline and municipal-pool comparator.
+- [`24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md) — sourced AI-benefit analysis.
+- [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — sourced AI chronology and modern-use analysis.
+- [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — sourced cryptocurrency benefits/risks analysis.
 
 ---
 
 # 16. Source-recovery notes
 
-This index is intentionally conservative about older research references whose exact source URL cannot be reconstructed confidently.
+This index is intentionally conservative about research references whose exact source URL or underlying record cannot be reconstructed confidently.
 
 An early project comparison referenced an Iowa DNR/Cedar Rapids pretreatment record concerning a yeast-manufacturing facility and a reported wastewater-flow figure. The exact audit URL used in that early analysis was not preserved cleanly enough to re-establish the quoted flow value from the original document during this dataset pass. Because the facility is not in Cascade and the original audit link/value pairing could not be reproduced confidently, the numerical claim has **not** been carried into the dataset as an authoritative comparison.
 
@@ -582,6 +585,241 @@ The DNR's current facility databases can be used for future source recovery, but
 
 - **Iowa DNR Facility Explorer** — Primary / official source-recovery tool  
   https://facilityexplorer.iowadnr.gov/
+
+---
+
+# 17. Artificial intelligence — development, benefits, and demonstrated uses
+
+## Foundational development
+
+- **Alan Turing — “Computing Machinery and Intelligence” (1950)** — Primary / original research  
+  https://academic.oup.com/mind/article/LIX/236/433/986238
+
+- **Dartmouth — history of the 1955 proposal / 1956 AI research project** — Primary / originating institution  
+  https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth
+
+- **Arthur Samuel — machine learning using checkers (1959)** — Primary / original research  
+  https://ieeexplore.ieee.org/document/5392560
+
+- **Joseph Weizenbaum — ELIZA (1966)** — Primary / original research  
+  https://doi.org/10.1145/365153.365168
+
+- **Rumelhart, Hinton & Williams — backpropagation / learning representations (1986)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/323533a0
+
+- **IBM — Deep Blue history** — Primary / company historical record  
+  https://www.ibm.com/history/deep-blue
+
+- **ImageNet paper (2009)** — Primary / original research  
+  https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf
+
+- **AlexNet / ImageNet classification with deep convolutional neural networks (2012)** — Primary / original research  
+  https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+
+- **AlphaGo (2016)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/nature16961
+
+- **Vaswani et al. — “Attention Is All You Need” / Transformer (2017)** — Primary / original research  
+  https://arxiv.org/abs/1706.03762
+
+- **Devlin et al. — BERT (2018)** — Primary / original research  
+  https://arxiv.org/abs/1810.04805
+
+- **Brown et al. — GPT-3 (2020)** — Primary / original research  
+  https://arxiv.org/abs/2005.14165
+
+- **OpenAI — ChatGPT launch (2022)** — Primary / original company publication  
+  https://openai.com/index/chatgpt/
+
+## Medicine and biomedical science
+
+- **Stokes et al. — deep learning antibiotic discovery / halicin, Cell (2020)** — Primary / peer-reviewed research  
+  https://pubmed.ncbi.nlm.nih.gov/32084340/  
+  https://doi.org/10.1016/j.cell.2020.01.021
+
+- **Liu et al. — AI-guided discovery of abaucin, Nature Chemical Biology (2023)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41589-023-01349-8
+
+- **Jumper et al. — AlphaFold 2, Nature (2021)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-021-03819-2
+
+- **Abramson et al. — AlphaFold 3, Nature (2024)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-024-07487-w
+
+- **Lång et al. — randomized MASAI AI-supported mammography trial, Lancet Oncology (2023)** — Primary / peer-reviewed research  
+  https://pubmed.ncbi.nlm.nih.gov/37541274/  
+  https://doi.org/10.1016/S1470-2045(23)00298-X
+
+- **FDA — Artificial Intelligence-Enabled Medical Devices** — Primary / federal regulatory source  
+  https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices
+
+## Accessibility and neurotechnology
+
+- **Lorach et al. — brain–spine interface / walking after spinal-cord injury, Nature (2023)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-023-06094-5
+
+- **Microsoft — Seeing AI** — Primary / original accessibility-product source  
+  https://www.microsoft.com/en-us/garage/wall-of-fame/seeing-ai/
+
+- **Tang et al. — wearable multimodal visual-assistance system, Nature Machine Intelligence (2025)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s42256-025-01018-6
+
+## Forecasting, materials, fusion, history, and productivity
+
+- **Lam et al. — GraphCast global weather forecasting, Science (2023)** — Primary / peer-reviewed research  
+  https://doi.org/10.1126/science.adi2336  
+  https://pubmed.ncbi.nlm.nih.gov/37962497/
+
+- **Merchant et al. — GNoME / materials discovery, Nature (2023)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-023-06735-9
+
+- **Degrave et al. — tokamak plasma control with deep reinforcement learning, Nature (2022)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-021-04301-9
+
+- **Assael et al. — Ithaca / restoring and attributing ancient Greek inscriptions, Nature (2022)** — Primary / peer-reviewed research  
+  https://www.nature.com/articles/s41586-022-04448-z
+
+- **Gutherz et al. — neural machine translation of Akkadian cuneiform, PNAS Nexus (2023)** — Primary / peer-reviewed research  
+  https://academic.oup.com/pnasnexus/article/2/5/pgad096/7147349
+
+- **Brynjolfsson, Li & Raymond — “Generative AI at Work,” NBER Working Paper 31161** — Primary / original empirical research  
+  https://www.nber.org/papers/w31161
+
+## Frontier mathematics — current validation status
+
+- **OpenAI — “On the Navier–Stokes Millennium Prize Problem” (September 8, 2026)** — Primary / original claimed proof and formalization; proposed result, not yet established as accepted solution  
+  https://openai.com/index/navier-stokes-solution/
+
+- **Clay Mathematics Institute — Millennium Prize rules** — Primary / official prize authority  
+  https://www.claymath.org/millennium-problems/rules/
+
+- **Nature — contemporaneous reporting on OpenAI Navier–Stokes claim** — Secondary / scientific journalism  
+  https://www.nature.com/articles/d41586-026-02842-5
+
+---
+
+# 18. Cryptocurrency — benefits, markets, financial access, and documented harms
+
+## Foundational / technical
+
+- **Satoshi Nakamoto — Bitcoin white paper** — Primary / original technical document  
+  https://bitcoin.org/bitcoin.pdf
+
+- **Ethereum white paper** — Primary / original technical document  
+  https://ethereum.org/en/whitepaper/
+
+## Household use, stablecoins, remittances, and financial access
+
+- **Federal Reserve — 2025 Survey of Household Economics and Decisionmaking, Banking and Credit / cryptocurrency** — Primary / official survey  
+  https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-banking.htm
+
+- **Federal Reserve — SHED 2025 Supplemental Appendix B** — Primary / official survey tables  
+  https://www.federalreserve.gov/publications/2026-supplemental-appendixes-report-economic-well-being-us-households-2025-appendix-b.htm
+
+- **IMF — Stablecoins in Nigeria: A Growing Cross-Border Channel (2026)** — Primary / international institution  
+  https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria
+
+- **IMF — Nigeria 2026 Article IV / stablecoin analysis** — Primary / international institution  
+  https://www.elibrary.imf.org/view/journals/002/2026/125/article-A001-en.xml
+
+- **IMF — Tokenized Finance and Money (2026)** — Primary / international institution  
+  https://www.imf.org/en/news/articles/2026/05/11/sp051126-tokenized-finance-and-money
+
+- **IMF — How Stablecoins Can Improve Payments and Global Finance (2025)** — Primary / international institution  
+  https://www.imf.org/en/blogs/articles/2025/12/04/how-stablecoins-can-improve-payments-and-global-finance
+
+- **Federal Reserve — International Role of the U.S. Dollar, 2025 Edition / stablecoin context** — Primary / official  
+  https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-2025-edition-20250718.html
+
+## Humanitarian use
+
+- **UNHCR Ukraine — USDC/blockchain humanitarian payment pilot** — Primary / United Nations agency  
+  https://www.unhcr.org/ua/en/news/unhcr-launches-pilot-cash-based-intervention-using-blockchain-technology-humanitarian-payments
+
+- **UNHCR — 2023 follow-up on blockchain cash-assistance project** — Primary / United Nations agency  
+  https://www.unhcr.org/us/news/press-releases/unhcr-wins-award-innovative-use-blockchain-solutions-provide-cash-forcibly
+
+## Markets and regulated investment access
+
+- **IMF — Regulating the Crypto Market in Nigeria / global crypto market-cap context** — Primary / international institution  
+  https://www.elibrary.imf.org/view/journals/002/2025/158/article-A002-en.xml
+
+- **Federal Reserve — Stablecoins in 2025: Developments and Financial Stability Implications (2026)** — Primary / official  
+  https://www.federalreserve.gov/econres/notes/feds-notes/stablecoins-in-2025-developments-and-financial-stability-implications-20260408.html
+
+- **Federal Reserve — Banks in the Age of Stablecoins (2026)** — Primary / official  
+  https://www.federalreserve.gov/econres/notes/feds-notes/banks-in-the-age-of-stablecoins-lessons-from-their-historical-responses-to-financial-innovations-20260501.html
+
+- **SEC — statement on approval of spot Bitcoin exchange-traded products (January 10, 2024)** — Primary / federal regulator  
+  https://www.sec.gov/newsroom/speeches-statements/gensler-statement-spot-bitcoin-011023
+
+- **Federal Reserve — Crypto ETPs: An Examination of Liquidity and NAV Premium (2025)** — Primary / official research  
+  https://www.federalreserve.gov/econres/notes/feds-notes/crypto-etps-an-examination-of-liquidity-and-nav-premium-20250328.html
+
+## Flexible proof-of-work load / grid interaction
+
+- **ERCOT — Voluntary Curtailment Program for Large Flexible Customers, including Bitcoin mining facilities (2022)** — Primary / grid operator  
+  https://www.ercot.com/news/release/2022-12-06-ercot-creates-voluntary
+
+- **U.S. EIA — Tracking electricity consumption from U.S. cryptocurrency mining operations (2024)** — Primary / federal energy statistics  
+  https://www.eia.gov/todayinenergy/detail.php?id=61364
+
+## Counterevidence to broad financial-inclusion claims
+
+- **IMF — El Salvador: Selected Issues (2025)** — Primary / international institution; reports no visible financial-inclusion or digital-remittance improvements from the national Bitcoin program  
+  https://www.imf.org/en/publications/cr/issues/2025/03/19/el-salvador-selected-issues-565394
+
+## Illicit markets, laundering, ransomware, and consumer/financial-stability risks
+
+- **U.S. DOJ — Hydra Market seizure** — Primary / federal law-enforcement source  
+  https://www.justice.gov/usao-ndca/pr/justice-department-investigation-leads-shutdown-largest-online-darknet-marketplace
+
+- **U.S. DOJ — Bitzlato guilty plea / illicit cryptocurrency transfers** — Primary / federal law-enforcement source  
+  https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money
+
+- **U.S. Treasury — 2023 DeFi Illicit Finance Risk Assessment release** — Primary / federal  
+  https://home.treasury.gov/news/press-releases/jy1391
+
+- **U.S. Treasury — money-laundering risk assessment resources** — Primary / federal  
+  https://home.treasury.gov/policy-issues/terrorism-and-illicit-finance/money-laundering
+
+- **U.S. DOJ — ChipMixer takedown** — Primary / federal law-enforcement source  
+  https://www.justice.gov/usao-edpa/pr/justice-department-investigation-leads-takedown-darknet-cryptocurrency-mixer-processed
+
+- **U.S. DOJ — Samourai Wallet money-laundering case** — Primary / federal law-enforcement source  
+  https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering
+
+- **Federal Reserve — Financial Stability Report / digital assets and funding risks** — Primary / official  
+  https://www.federalreserve.gov/publications/2022-november-financial-stability-report-funding-risks.htm
+
+---
+
+# 19. Cascade municipal swimming-pool comparator
+
+- **Burbach Aquatics — Featured Projects / Cascade, Iowa** — Primary / project engineer; identifies the 2020 Cascade pool and **6,015 sq. ft.** pool surface  
+  https://burbachaquatics.com/featured-projects/
+
+- **City of Cascade — Swimming Pool** — Primary / official; current facility description and operations  
+  https://www.cityofcascade.org/vnews/display.v/SEC/Parks%20%26%20Recreation%7CSwimming%20Pool
+
+- **City of Cascade — 2020 Council Agenda & Minutes archive containing 2019 pool-construction minutes** — Primary / official  
+  https://www.cityofcascade.org/vnews/display.v/ART/5ecd6a3052acb
+
+- **City of Cascade — May 28, 2019 Council Minutes** — Primary / official; authorizes $1.965 million in GO swimming-pool bonds  
+  https://www.cityofcascade.org/vimages/shared/vnews/stories/5ecd6a3052acb/May-28-2019-Council-Minutes.pdf
+
+- **City of Cascade — June 24, 2019 Council Minutes** — Primary / official; Resolution #38-19 approves notice to proceed and Contracts #1/#2 with Ricchio, Inc.  
+  https://www.cityofcascade.org/vimages/shared/vnews/stories/5ecd6a3052acb/June-24-2019-Council-Minutes.pdf
+
+- **Iowa DNR — Land and Water Conservation Fund resources / Cascade Municipal Pool Replacement context** — Primary / state  
+  https://www.iowadnr.gov/Things-to-Do/Grants-Other-Funding/Land-Water-Conservation-Fund
+
+- **Iowa Legislature — Annual Infrastructure Status Report / CAT project records** — Primary / state; includes Cascade “Wave of the Future” project context  
+  https://www.legis.iowa.gov/docs/publications/DF/1447653.pdf
+
+**Source-recovery gap:** the exact gallon capacity shown in the original 2019 Burbach/Ricchio pool plan/bid set and an authoritative seasonal/annual pool water-meter total have not yet been recovered from the publicly indexed files. The repository therefore preserves the verified 6,015-square-foot water-surface figure without estimating pool volume from an assumed average depth.
+
+---
 
 ## Source-index maintenance rule
 
@@ -593,4 +831,6 @@ When adding a new document:
 4. distinguish a source's actual statement from project inference;
 5. do not add private social-media content or personally identifying material;
 6. if a URL breaks, locate the issuing organization's current copy before replacing it;
-7. never silently turn project-generated model language into a claim about adopted Cascade law.
+7. never silently turn project-generated model language into a claim about adopted Cascade law;
+8. distinguish a proposed scientific result from a result that has completed independent validation; and
+9. do not convert market capitalization, facility capacity, or one-time stored volume into a different economic or consumption metric without stating the calculation and its limitations.
