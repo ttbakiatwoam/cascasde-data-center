@@ -8,6 +8,8 @@ This repository supports an evidence-based review of the proposed Cascade data-c
 
 The working position of this project is **pro-data-center development with appropriate community protections, transparency, and accountability**.
 
+That position includes evaluating both sides of the ledger. Data centers can create localized costs involving electricity, water, noise, land use, infrastructure, public incentives, and emergency services. The computing they enable can also produce benefits that are geographically distributed far beyond the communities hosting the physical infrastructure. This repository documents both rather than assuming one cancels the other.
+
 ## Dataset
 
 The [`dataset/`](dataset/) directory converts the major research threads developed in this project into reusable Markdown notes with public source links.
@@ -17,6 +19,10 @@ Start here:
 - [`dataset/00_INDEX.md`](dataset/00_INDEX.md) — dataset contents, methodology, privacy rules, and evidence labels
 - [`dataset/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](dataset/21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) — living tracker of what is documented, represented, preliminary, unknown, or awaiting legal review
 - [`dataset/22_SOURCE_INDEX.md`](dataset/22_SOURCE_INDEX.md) — consolidated public source and document index
+- [`dataset/23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](dataset/23_CASCADE_MUNICIPAL_WATER_BASELINE.md) — city water-system baseline and municipal-pool comparison
+- [`dataset/24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](dataset/24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md) — documented AI accomplishments and public benefits
+- [`dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — AI development timeline and examples already embedded in modern life
+- [`dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — cryptocurrency benefits, market impact, financial access, and documented risks
 
 The public dataset intentionally excludes Facebook comments/reply drafting, screenshots of private/local discussions, private correspondence, personal disputes, law-enforcement correspondence, addresses/contact information, and other personally identifying information.
 
@@ -41,6 +47,10 @@ This project tracks questions and research involving:
 - Decommissioning requirements and financial assurance
 - Comparable operating facilities and documented real-world impacts
 - Public claims and their underlying source evidence
+- Demonstrated social, medical, scientific, accessibility, productivity, and forecasting benefits of artificial intelligence
+- The historical development of AI and its existing role in ordinary modern systems
+- Cryptocurrency's financial-access, remittance, humanitarian, investment, and programmable-finance benefits
+- Cryptocurrency's documented illicit-finance, fraud, volatility, consumer-protection, and proof-of-work electricity risks
 
 ## Community forum questions
 
@@ -81,17 +91,30 @@ Where possible, claims should be traced back to primary or high-quality sources 
 - Environmental and acoustical studies
 - Peer-reviewed research
 - Government agencies
+- Original institutional publications
 - Original local reporting
 
-Opinion pieces, advocacy material, podcasts, and national reporting may be useful for identifying claims, but they should not be treated as substitutes for the underlying evidence.
+Opinion pieces, advocacy material, podcasts, social-media posts, and national reporting may be useful for identifying claims, but they should not be treated as substitutes for the underlying evidence.
 
-The dataset distinguishes public records, company representations, secondary reporting, and project-generated analysis rather than presenting them as equally authoritative.
+The dataset distinguishes public records, peer-reviewed/original research, company representations, secondary reporting, and project-generated analysis rather than presenting them as equally authoritative.
+
+## Technology-benefit research
+
+The repository now separately documents demonstrated benefits of AI and cryptocurrency so that local-infrastructure costs are not evaluated as though the computation itself has no external value.
+
+The AI research includes primary studies on antibiotic discovery, protein and biomolecular structure prediction, mammography screening, brain–spine interfaces, visual accessibility, weather forecasting, materials discovery, fusion control, ancient-text reconstruction, and productivity. It also records an AI development timeline from Turing through modern foundation models and current applications.
+
+The cryptocurrency research documents peer-to-peer ownership and transfer, real-world stablecoin/remittance use, financial-access data, humanitarian payments, regulated investment products, programmable finance, and flexible mining load. It deliberately preserves counterevidence including failed financial-inclusion programs, darknet markets, money laundering, ransomware, consumer losses, volatility, and energy demand.
+
+These files are **technology-context research**, not claims that the proposed Cascade facility will necessarily run AI workloads, create any specific scientific result, or deliver a particular cryptocurrency-related benefit.
 
 ## Project stance
 
 A central principle of this repository is that Cascade should regulate the **physical and community impacts of the facility** that are within local government's lawful authority while avoiding unsupported assumptions about what computing workloads may eventually run inside a privately operated data center.
 
 Questions about water, noise, electricity, taxes, infrastructure, emergency response, environmental impacts, jobs, and decommissioning deserve concrete answers and enforceable standards regardless of whether the machines inside are used for cryptocurrency mining, AI, cloud services, high-performance computing, or another lawful workload.
+
+Broader technological benefits do not erase local externalities. Local externalities also do not establish that the underlying technology has no broader social or economic value. The policy objective is to capture lawful development opportunities while preventing private infrastructure costs from being shifted onto the surrounding community without accountability.
 
 ## Disclaimer
 
