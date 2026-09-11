@@ -15,6 +15,7 @@ The goal is to create a traceable evidence base that can be used for:
 - source validation and fact checking;
 - comparison with other Iowa jurisdictions;
 - technical review of water, noise, energy, and infrastructure claims;
+- evaluation of broader social and economic benefits enabled by computing infrastructure;
 - tracking unanswered project-specific questions;
 - later comparison between public representations and actual project documents.
 
@@ -39,15 +40,15 @@ The notes distinguish four source categories wherever the distinction matters:
 
 ### Public record / primary source
 
-Government ordinances, statutes, minutes, official public pages, engineering/technical publications, company documents, and manufacturer documentation.
+Government ordinances, statutes, minutes, official public pages, peer-reviewed research, engineering/technical publications, company documents, and manufacturer documentation.
 
 ### Company representation
 
-A statement published or made by the company about its own technology, fleet, operations, or proposed project. A company statement is evidence of what the company represents; it is not automatically independent verification.
+A statement published or made by a company about its own technology, fleet, operations, research, or proposed project. A company statement is evidence of what the company represents; it is not automatically independent verification.
 
 ### Secondary reporting
 
-Journalism or trade reporting. Where possible, secondary reporting is traced to the underlying public record or original reporting.
+Journalism or trade reporting. Where possible, secondary reporting is traced to the underlying public record, original research, or original reporting.
 
 ### Project-generated analysis
 
@@ -122,7 +123,16 @@ Calculations, policy proposals, question banks, and model ordinance language cre
     Consolidated public URL index for the statutes, ordinances, government records, research, company materials, journalism, and comparator documents used throughout the project.
 
 23. [`23_CASCADE_MUNICIPAL_WATER_BASELINE.md`](23_CASCADE_MUNICIPAL_WATER_BASELINE.md)  
-    City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and limits on interpreting unused nameplate capacity.
+    City/DNR baseline for Cascade's wells, nominal daily capacity, average daily consumption, storage, water-quality reporting, and a municipal-pool comparator with explicit source-recovery gaps for pool gallon capacity and metered seasonal use.
+
+24. [`24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md)  
+    Primary-source research on demonstrated AI benefits in antibiotics, protein structure, medical screening, accessibility, neurotechnology, weather forecasting, materials, fusion, ancient texts, productivity, and frontier mathematics, with claim-strength caveats.
+
+25. [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md)  
+    Selective 1950–2026 AI development timeline plus examples of AI already embedded in health care, search, accessibility, translation, forecasting, logistics, industry, cybersecurity, knowledge work, and science.
+
+26. [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md)  
+    Balanced research on cryptocurrency's peer-to-peer architecture, financial access, remittances, stablecoins, humanitarian use, market value, regulated investment products, programmable finance, flexible mining load, illicit markets, laundering, consumer risks, and failed inclusion cases.
 
 ## Root data files
 
@@ -155,7 +165,7 @@ An accidental water-line rupture, code violation, or unmetered connection is evi
 
 ### 3. Do not turn a company claim into independent fact
 
-Company technical publications are useful and are preserved, but Cascade-specific representations should ultimately be checked against engineering drawings, utility records, permits, measurements, and enforceable agreements.
+Company technical publications are useful and are preserved, but company representations should ultimately be checked against peer-reviewed research, independent testing, engineering drawings, utility records, permits, measurements, or enforceable agreements when those sources are available.
 
 ### 4. Do not turn a model policy into adopted law
 
@@ -163,14 +173,19 @@ The project-generated accountability ordinance is preserved because it contains 
 
 ### 5. Unknown is an acceptable status
 
-Where final project details are not public, the dataset records an evidence gap rather than filling it with assumptions from another facility.
+Where final project details or comparator measurements are not public, the dataset records an evidence gap rather than filling it with assumptions.
+
+### 6. Benefits do not erase externalities—and externalities do not erase benefits
+
+Research into AI, cryptocurrency, or other data-center workloads should preserve both demonstrated benefits and documented harms. Global or distributed benefits do not excuse unmanaged local water, noise, electricity, infrastructure, tax, or environmental costs. Conversely, localized infrastructure costs do not establish that the computing activity has no broader social or economic value.
 
 ## Updating the dataset
 
-When new Simple Mining documents, City records, utility information, technical studies, or forum answers become available:
+When new Simple Mining documents, City records, utility information, technical studies, peer-reviewed research, or forum answers become available:
 
 1. add the original public source to [`22_SOURCE_INDEX.md`](22_SOURCE_INDEX.md);
 2. update the relevant topical note;
-3. update [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md);
+3. update [`21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md`](21_OPEN_QUESTIONS_AND_EVIDENCE_GAPS.md) when a Cascade-specific evidence gap changes;
 4. distinguish a preliminary estimate from a final/enforceable commitment;
-5. record material corrections rather than silently overwriting prior claims when the history matters.
+5. distinguish a proposed scientific result from an independently validated result;
+6. record material corrections rather than silently overwriting prior claims when the history matters.
