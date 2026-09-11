@@ -51,6 +51,60 @@ Cascade publishes annual Consumer Confidence / Water Quality Reports. The curren
 
 A data-center water analysis should distinguish **water quantity/capacity** from **drinking-water quality**. A facility can create a capacity concern without contaminating drinking water, and a water-quality report does not by itself establish how much new industrial demand the system can safely support.
 
+---
+
+# Cascade municipal swimming-pool comparator
+
+A familiar local water use can make otherwise abstract gallon figures easier to understand, but the comparison has to use compatible measurements.
+
+## What is publicly documented
+
+Burbach Aquatics, the aquatic engineering firm associated with the replacement pool, identifies the Cascade facility as a **2020** project with **6,015 square feet of pool water surface**. Its project description includes a zero-depth entry area, toddler slide and spray features, a six-lane competition pool, a larger slide, shade structures, and two diving boards.
+
+The City of Cascade's current swimming-pool page independently describes the operating facility as having a zero-entry area, water features, two diving boards (one meter and three meters), and a larger youth slide.
+
+The City's June 24, 2019 Council minutes document Resolution #38-19 approving the notice to proceed and construction contract for Contracts #1 and #2 of the **Cascade Municipal Swimming Pool Project with Ricchio, Inc.** The May 28, 2019 minutes document authorization of **$1.965 million in general-obligation swimming-pool bonds**.
+
+Iowa Community Attraction and Tourism program records identify the Cascade project as **“Wave of the Future,”** with a total project cost of approximately **$3.389 million** and a state CAT award of approximately $229,000. Iowa DNR's Land and Water Conservation Fund material separately describes the replacement-pool scope, including zero-depth entry, six 25-yard lap lanes, diving towers, a small slide, water features, and accessibility improvements.
+
+## Pool volume: source-recovery status
+
+The exact **gallon capacity of the pool** has not yet been recovered from the publicly indexed copy of the 2019 construction/bid documents during this research pass.
+
+The 6,015-square-foot water-surface figure is verified, but surface area alone is **not enough to calculate an authoritative pool volume** because the zero-depth section, competition lanes, diving well, transitions, gutters, surge capacity, and varying depths materially affect the result.
+
+The project therefore records the gallon figure as an explicit source-recovery item rather than estimating it from an assumed average depth. The preferred authoritative source is the original Burbach/Ricchio pool plan, hydraulic schedule, equipment schedule, or bid specification approved during the 2019 construction process.
+
+## Pool water consumption: do not confuse it with pool volume
+
+Even after the exact gallon capacity is recovered, that number will describe the amount of water contained in the pool when filled—not its annual or daily water consumption.
+
+A municipal pool normally recirculates and treats the same body of water. Additional municipal water may be required for:
+
+- initial/seasonal filling;
+- evaporation replacement;
+- splash-out and swimmer displacement;
+- filter backwashing;
+- cleaning and maintenance;
+- leaks or repairs;
+- intentional partial draining/refilling; and
+- domestic uses in showers, toilets, concessions, and bathhouse facilities.
+
+No sufficiently documented Cascade pool meter dataset or annual seasonal gallon total was recovered in this pass. Until a City utility record or pool operating record supplies that figure, the repository should not describe the pool's full volume as if that volume were consumed every day.
+
+## How the pool comparison should be reported when the gallon capacity is recovered
+
+Once an authoritative pool-volume figure is located, useful scale comparisons can include:
+
+- **pool capacity ÷ 230,000 gallons/day** = how many average current city-use days equal one complete pool fill;
+- **pool capacity ÷ 1,440,000 gallons/day** = one complete fill as a share of the City's stated nominal daily well capacity;
+- **pool capacity ÷ 400,000 gallons** = pool volume relative to stated water-tower storage; and
+- if actual seasonal pool metering is obtained, **pool seasonal consumption ÷ city annual consumption** = the pool's documented share of municipal water use.
+
+These are scale comparisons only. A one-time or seasonal pool fill is not operationally equivalent to a 24/7 industrial demand.
+
+---
+
 ## How this baseline should be used for the Simple Mining proposal
 
 Before assigning a water impact to the proposed facility, obtain:
@@ -81,11 +135,26 @@ For example, university extension guidance shows that greenhouse peak irrigation
 
 ## Sources
 
+### Municipal water system
+
 - City of Cascade — Public Works Water Department: https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CWater
 - City of Cascade — Water Quality Reports: https://www.cityofcascade.org/vnews/display.v/SEC/Municipal%20Utilities%7CWater%3E%3EWater%20Quality%20Report
 - City of Cascade — 2025 Water Quality Report PDF: https://www.cityofcascade.org/vimages/shared/vnews/stories/5eeb92cca75d4/20260504150429.pdf
 - Iowa DNR — Cascade Municipal Water Supply Source Water Protection Tracker: https://programs.iowadnr.gov/sourcewater/SystemDetail?pwsid=3118080
 - Iowa DNR — Drinking Water Data Portal: https://programs.iowadnr.gov/iowadrinkingwater
+
+### Cascade municipal swimming pool
+
+- Burbach Aquatics — Featured Projects / Cascade, IA (6,015 sq. ft. pool): https://burbachaquatics.com/featured-projects/
+- City of Cascade — Swimming Pool: https://www.cityofcascade.org/vnews/display.v/SEC/Parks%20%26%20Recreation%7CSwimming%20Pool
+- City of Cascade — 2020 Council Agenda & Minutes archive containing 2019 minutes: https://www.cityofcascade.org/vnews/display.v/ART/5ecd6a3052acb
+- City of Cascade — May 28, 2019 Council Minutes / swimming-pool bonds: https://www.cityofcascade.org/vimages/shared/vnews/stories/5ecd6a3052acb/May-28-2019-Council-Minutes.pdf
+- City of Cascade — June 24, 2019 Council Minutes / Ricchio notice to proceed and contract: https://www.cityofcascade.org/vimages/shared/vnews/stories/5ecd6a3052acb/June-24-2019-Council-Minutes.pdf
+- Iowa DNR — Land and Water Conservation Fund / Cascade Municipal Pool Replacement project materials: https://www.iowadnr.gov/Things-to-Do/Grants-Other-Funding/Land-Water-Conservation-Fund
+- Iowa Legislature / IEDA infrastructure reporting — Community Attraction and Tourism project records: https://www.legis.iowa.gov/docs/publications/DF/1447653.pdf
+
+### Other comparison research
+
 - UMass Extension — Sizing the Greenhouse Water System: https://www.umass.edu/agriculture-food-environment/greenhouse-floriculture/fact-sheets/sizing-greenhouse-water-system
 - University of Arkansas Extension — Irrigation Water for Greenhouses and Nurseries: https://www.uaex.uada.edu/publications/pdf/FSA-6061.pdf
 - Lawrence Berkeley National Laboratory — Water Use in Data Center Workloads: https://eta.lbl.gov/publications/water-use-data-center-workloads
