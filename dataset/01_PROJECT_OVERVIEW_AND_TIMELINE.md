@@ -2,7 +2,7 @@
 
 > Dataset scope: public-record and research summary for the proposed data-center project in Cascade, Iowa. Social-media conversations, private correspondence, personal disputes, and personally identifying information are intentionally excluded.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-09-18
 
 ## Working description
 
@@ -36,6 +36,12 @@ Council minutes record approval of Resolution 79-26 appointing members to the Da
 ### September 2026 — public forum announced
 
 A public invitation announced a Simple Mining community forum for October 1, 2026, with questions accepted in advance through a Google Form. The repository's `questions.csv` was assembled to seek project-specific answers rather than infer Cascade impacts from unrelated facilities.
+
+### September 14, 2026 — committee clarification placed on Council agenda
+
+The City Council agenda packet included proposed Resolution 92-26 to clarify Data Center Advisory Committee membership, voting authority, quorum, procedure, public attendance, and the committee's advisory-only role. The draft proposed eight voting members, a five-member quorum, non-voting technical/advisory participants, and referral of proposed ordinance language to Planning & Zoning and the City Council.
+
+As of the September 18 review, the City's 2026 records page did not yet list September 14 meeting minutes. The repository therefore treats Resolution 92-26 as proposed packet language pending official confirmation of disposition.
 
 ## What is established vs. still open
 
