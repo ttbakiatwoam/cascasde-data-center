@@ -2,13 +2,23 @@
 
 > This file records public actions and planning considerations. It does not reproduce private legal correspondence or make a final legal judgment on the validity of any particular moratorium.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-09-18
 
 ## Cascade's June 2026 moratorium
 
 Cascade City Council minutes for June 22, 2026 record approval of Resolution 57-26 establishing a **12-month moratorium on construction of data centers within Cascade city limits**. The public discussion leading to the action included requests for additional research and time to establish local standards. The minutes contemplated interim benchmarks rather than simply waiting twelve months without action.
 
 The project has treated the moratorium as a temporary planning action, not a permanent data-center ban.
+
+## Public-record duration discrepancy
+
+A September 18 source comparison found that the June 22 pre-meeting packet and the posted meeting minutes do not use the same duration language.
+
+The City Administrator's June 18 memo describes a short-term moratorium and says the Council could rescind it if ordinance work finished before 90 days. The packet draft of Resolution 57-26 is itself internally inconsistent: one recital says the moratorium would remain in effect indefinitely unless terminated by later Council action, while Section 5 says it would continue for 90 days or until terminated.
+
+The subsequently posted June 22 minutes record the Council's actual action as approval of a **12-month moratorium** with **60–90-day benchmarks**.
+
+Accordingly, this dataset treats the minutes as the stronger evidence of the Council's adopted action and does not present the packet draft's 90-day or indefinite wording as final. A signed/executed final Resolution 57-26 reflecting the Council's amendment remains an evidence gap.
 
 ## Purpose of a planning pause
 
@@ -66,6 +76,7 @@ The dataset does not assert an automatic-approval deadline. Exact processing req
 ## Sources
 
 - City of Cascade — June 22, 2026 Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/June%2022%202026%20Council%20Minutes.pdf
+- City of Cascade — June 22, 2026 City Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20June%2022%202026.pdf
 - City of Cascade — June 22 Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20June%2022%202026.pdf
 - City of Cascade — July 27, 2026 Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/July%2027%202026%20Council%20Minutes.pdf
 - City of Cascade — August 10, 2026 Council Minutes: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/August%2010th%20Council%20Minutes.pdf
