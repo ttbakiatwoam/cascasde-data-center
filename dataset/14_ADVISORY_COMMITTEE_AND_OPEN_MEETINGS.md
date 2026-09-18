@@ -2,13 +2,31 @@
 
 > This file summarizes public-governance research relevant to a City-created data-center advisory body. It omits committee-member names and all private correspondence.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-09-18
 
 ## Cascade action
 
 On July 27, 2026, Cascade City Council minutes record approval of Resolution 70-26 creating an Advisory Committee to Prepare a Data Center Ordinance. On August 10, 2026, council minutes record approval of Resolution 79-26 appointing committee members.
 
 Because the committee was formally created by a public governing body to perform public-policy work, Iowa Open Meetings Law is a central procedural reference.
+
+## September 14 proposed clarification
+
+The September 14 City Council packet included proposed Resolution 92-26 to clarify committee structure and procedure. The draft proposed eight voting members—two City Council representatives, two Cascade Economic Development Corporation representatives, two Planning & Zoning Commission representatives, and two citizen representatives—with non-voting technical/advisory participants excluded from quorum. It proposed a quorum of five voting members.
+
+The draft describes the committee as advisory only and says it may research and recommend policy concerning zoning, land use, water/wastewater, electricity, cooling, noise, environmental issues, fire protection, construction, economic impacts, public safety, community safeguards, and ordinance language. It expressly withholds authority to approve/deny projects, spend City funds, execute agreements, or grant permits.
+
+The draft also provides for Chapter 21 compliance, posted agendas, official minutes, public attendance, and reasonable conduct rules, while stating that committee agendas would not contain a standing public-comment area.
+
+**Status:** as of September 18, the City's records index had not posted September 14 meeting minutes. This dataset therefore treats the resolution as proposed packet language rather than confirmed adopted text.
+
+## Conflict-of-interest statutes: scope matters
+
+Iowa Code §362.5 prohibits specified interests by a **city officer or employee** in a contract, job of work, material, profits, or services involving that person's city, subject to statutory exceptions. Iowa Code §362.6 addresses conflicts of interest in voting and provides procedures including declining to vote and recording the declaration.
+
+Those provisions should be applied to concrete facts: the person's legal status, the specific measure or contract, and the actual financial or other interest involved. Organizational affiliation by itself should not be converted into a conclusion that committee service is automatically unlawful without the statutory elements and facts needed for that conclusion.
+
+This repository therefore records conflict-of-interest allegations as legal questions unless supported by an official determination or sufficient facts to establish the statutory elements.
 
 ## Iowa Code Chapter 21
 
@@ -75,3 +93,7 @@ The objective is a committee whose process is legally defensible, transparent, w
 - City of Cascade — 2021 Code PDF, §2-2-9: https://www.cityofcascade.org/vimages/shared/vnews/stories/5eac8000e4911/Code%202021.pdf
 - Iowa Acts 2024, Chapter 1004 — §48 repealing §69.16A: https://www.legis.iowa.gov/docs/acts/2024/CH1004.pdf
 - Iowa Code 2026 §69.16A reference: https://www.legis.iowa.gov/docs/code/2026/69.16A.pdf
+- City of Cascade — September 14, 2026 City Council Agenda and Packet: https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20September%2014%202026.pdf
+- Iowa Code §362.5 — Interest in public contract prohibited — exceptions: https://www.legis.iowa.gov/docs/code/2026/362.5.pdf
+- Iowa Code §362.6 — Conflict of interest: https://www.legis.iowa.gov/docs/code/2026/362.6.pdf
+- Iowa Code Chapter 22 — Public Records: https://www.legis.iowa.gov/docs/code/2026/22.pdf
