@@ -2,7 +2,7 @@
 
 > Public-source research dataset concerning the proposed data-center / Simple Mining project in Cascade, Iowa.
 >
-> Dataset assembled through: 2026-09-10
+> Dataset assembled through: 2026-09-18
 
 ## Purpose
 
@@ -133,6 +133,9 @@ Calculations, policy proposals, question banks, and model ordinance language cre
 
 26. [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md)  
     Balanced research on cryptocurrency's peer-to-peer architecture, financial access, remittances, stablecoins, humanitarian use, market value, regulated investment products, programmable finance, flexible mining load, illicit markets, laundering, consumer risks, and failed inclusion cases.
+
+27. [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md)  
+    Weekly public-record update covering proposed Resolution 92-26, the Resolution 57-26 duration discrepancy, Iowa conflict-of-interest statutes, and Chapter 21/22 governance issues.
 
 ## Root data files
 
