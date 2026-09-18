@@ -2,7 +2,7 @@
 
 > This file is a living evidence tracker. “Unknown” means the reviewed public record does not yet establish the answer; it does not imply that the information does not exist or that the applicant has refused to provide it.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-09-18
 
 ## Status vocabulary
 
@@ -11,6 +11,22 @@
 - **Preliminary** — reported for an early project concept and subject to change.
 - **Unknown** — not established in the public sources reviewed.
 - **Needs legal review** — depends on current local/state law or enforceability analysis.
+
+## Governance and public-record status — September 18 update
+
+| Question | Current status | Evidence needed |
+|---|---|---|
+| Was proposed Resolution 92-26 adopted on September 14? | Unknown in posted record | September 14 minutes or executed resolution |
+| What is the final voting/non-voting committee structure? | Proposed packet language | Adopted Resolution 92-26 or later amendment |
+| When is the first Data Center Advisory Committee meeting? | Unknown | Posted Chapter 21 notice/agenda |
+| What is the controlling final text of Resolution 57-26? | Needs document recovery | Signed/executed resolution reflecting Council amendment |
+| Why do the June 22 packet draft and minutes differ on moratorium duration? | Documented discrepancy | Final executed resolution / City record |
+| Has the City Attorney issued a written opinion on moratorium validity? | Unknown | Public legal memorandum or Council record, subject to lawful confidentiality |
+| Has any official conflict-of-interest determination or recusal been recorded? | Unknown | Minutes, written determination, or other public record |
+| Are any committee records being withheld under an NDA/confidentiality agreement? | Unknown | Agreement plus cited Chapter 22/statutory basis for confidentiality |
+| Historical municipal-pool metered water use | Unknown | Utility meter/billing records for requested years |
+
+**Current source note:** the June 22 packet draft contains both an indefinite-duration recital and a 90-day operative section, while the June 22 minutes record Council approval of a 12-month moratorium with 60–90-day benchmarks. The minutes are therefore the stronger record of the Council's action pending recovery of the executed final resolution.
 
 ## Project identity and site design
 
