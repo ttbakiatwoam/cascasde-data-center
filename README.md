@@ -23,6 +23,7 @@ Start here:
 - [`dataset/24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](dataset/24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md) — documented AI accomplishments and public benefits
 - [`dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](dataset/25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — AI development timeline and examples already embedded in modern life
 - [`dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](dataset/26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — cryptocurrency benefits, market impact, financial access, and documented risks
+- [`dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](dataset/27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — September 11–18 public-record update covering committee rules, moratorium-source discrepancies, conflict-of-interest statutes, and open-record/open-meeting issues
 
 The public dataset intentionally excludes Facebook comments/reply drafting, screenshots of private/local discussions, private correspondence, personal disputes, law-enforcement correspondence, addresses/contact information, and other personally identifying information.
 
