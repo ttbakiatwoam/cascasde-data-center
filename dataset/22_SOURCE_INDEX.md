@@ -2,7 +2,7 @@
 
 > This index consolidates public URLs cited, quoted, or used as research references in the Cascade Data Center project. It intentionally excludes Facebook posts/comments, private messages, private correspondence, screenshots containing personal information, law-enforcement correspondence, individual contact details, and other personally identifying material.
 >
-> Last reviewed: 2026-09-10
+> Last reviewed: 2026-09-18
 
 ## Source classification
 
@@ -40,6 +40,9 @@
 
 - **August 24, 2026 City Council Minutes** — Primary / official  
   https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/August%2024th%20Minutes.pdf
+
+- **September 14, 2026 City Council Agenda and Packet** — Primary / official; contains proposed Resolution 92-26  
+  https://www.cityofcascade.org/vimages/shared/vnews/stories/6959ce08641c7/City%20Council%20Agenda%20and%20Packet%20September%2014%202026.pdf
 
 ## Cascade code, zoning, permits, utilities, and development
 
@@ -143,6 +146,17 @@
 - **Iowa Constitution, Article III, §38A — municipal home rule reference copy** — Primary-law text / third-party host  
   https://law.justia.com/constitution/iowa/article-iii/section-38a/
 
+## Municipal conflicts / public-contract interests
+
+- **Iowa Code Chapter 362 — City Code** — Primary / official  
+  https://www.legis.iowa.gov/docs/code/2026/362.pdf
+
+- **Iowa Code §362.5 — Interest in public contract prohibited — exceptions** — Primary / official  
+  https://www.legis.iowa.gov/docs/code/2026/362.5.pdf
+
+- **Iowa Code §362.6 — Conflict of interest** — Primary / official  
+  https://www.legis.iowa.gov/docs/code/2026/362.6.pdf
+
 ## State water-system records
 
 - **Iowa DNR — Cascade Municipal Water Supply Source Water Protection Tracker** — Primary / official  
@@ -173,6 +187,9 @@
 
 - **Iowa Public Information Board — homepage/resources** — Primary / official guidance  
   https://ipib.iowa.gov/
+
+- **Iowa Code Chapter 22 — Public Records** — Primary / official  
+  https://www.legis.iowa.gov/docs/code/2026/22.pdf
 
 ## Board/commission gender-balance repeal research
 
@@ -572,6 +589,7 @@ These are part of the research dataset but are **not independent sources or adop
 - [`24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md`](24_ARTIFICIAL_INTELLIGENCE_BENEFITS_AND_ACCOMPLISHMENTS.md) — sourced AI-benefit analysis.
 - [`25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md`](25_ARTIFICIAL_INTELLIGENCE_DEVELOPMENT_AND_MODERN_USE_TIMELINE.md) — sourced AI chronology and modern-use analysis.
 - [`26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md`](26_CRYPTOCURRENCY_BENEFITS_RISKS_AND_ECONOMIC_IMPACT.md) — sourced cryptocurrency benefits/risks analysis.
+- [`27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md`](27_WEEKLY_PUBLIC_RECORD_UPDATE_2026-09-11_TO_2026-09-18.md) — weekly public-record/governance update.
 
 ---
 
